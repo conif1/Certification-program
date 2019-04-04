@@ -1,0 +1,26 @@
+.title{
+    font-family:'Papyrus';
+    font-size: 30pt;
+    color: #ffcc66;
+}
+.title2{
+    font-family:'Franklin Gothic Medium';
+    font-size: 30pt;
+    color: #ffcc66;
+}
+.words{
+    font-family:'Franklin Gothic Medium';
+    font-size: 18pt;
+    color: #ffcc66;
+}
+.sheet{
+    max-width: 80%;
+    margin-left: 10%;
+    border-top:30px;
+    position: relative;
+}
+.sheet2{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}

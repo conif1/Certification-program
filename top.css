@@ -1,0 +1,53 @@
+body{
+  background: #FFCC66;
+}
+.top {
+  max-width: 1500px;
+  max-height: 500px;
+  position: relative;
+  margin: auto;
+  width:100%
+  
+}
+.sitetitle {
+  position: absolute;
+  top:15%;
+  margin-left: 37%;
+}
+.logo {
+  position: absolute;
+  top:35%;
+  margin-left: 40%;
+}
+body{
+  background-color: #FFCC66;
+}
+.bar{
+  border: 200px;
+}
+.button{
+  font-family:'Franklin Gothic Medium';
+  font-size: 18pt;
+  color: #ffcc66;
+  text-decoration: none;
+  display: block;
+  display: inline;
+  margin-left: 17.5%;
+}
+
+.map{
+  padding-bottom: 10px;
+  max-height: 750px;
+  position: relative;
+  margin-top:20px;
+  width:100%;
+}
+.specials{
+  margin-left: 30%;
+  position:relative;
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
